@@ -27,3 +27,4 @@ package main
 //			then send and recieve request
 //		In the case that a search needs to hit all repos, the loadserver needs to send fan-out request,
 //			then sitch the response together and send it back
+// THINK ITS NOT WORTH IT. Going to try the 60GB machine real quick
